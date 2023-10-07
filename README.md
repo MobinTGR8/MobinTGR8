@@ -13,14 +13,15 @@
 <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width=30%>
 
 <br><br>
-- :school: I am a `Fresh Graduate` from the [Faculty of Computers & Informatics](#) at [ABCD University](#).
-- :trophy: 3x `ACPC` Finalist.
-- :technologist: I love using Software to solve every `Problem`.
-- :computer: I am a competitive programmer at `Codeforces`, `Atcoder`, `Leetcode`, `Codechef`, `Google Contests`.
-- :student: I’m currently learning `Computer Science` and `Software Engineering`.
-- :nerd_face: Always `learning new things`.
-- :thinking: I’m currently open for a new `job opportunity`, this is [MY RESUME](#).
-- :boom: You can visit [MY WEBSITE](#).
+- :school: I am a `2nd Year student` from the [Faculty of Computers Science and Engineering](http://pstu.ac.bd/faculties/CSE) at [Patuakhali Science and Technology University](http://pstu.ac.bd/).
+- 🏆 Nothing yet.
+- 🧔‍♂️ I love technology and use it to solve every `Problem`.
+- 🧑‍💻 I am a biginner competitive programmer at `Codeforces`, `Beecrowd`, `Hackerrank`, `Codechef`, `Atcoder`, `Leetcode`, `Google Contests`.
+- 🖱️ i have leanred `C` and currently Learning `Java`, `C++`, `Python`.
+- 🧑‍🎓 I’m currently learning `Computer Science` and `Software Engineering`.
+- 🤓 Always `learning new things`.
+- 🤔 I’m currently open for a new `job opportunity`, this is [MY RESUME](#).
+- 💥 You can visit [MY WEBSITE](#).
 <be>
 
 <!-- Competitive Programming Profiles --> 
@@ -31,17 +32,17 @@
 ![LeetCode Stats](https://leetcard.jacoblin.cool/MobinTGR8?theme=nord&font=Arapey&ext=heatmap)
 
 <div align="center" width=100%>
-  <a href="https://codeforces.com/profile/7oSkaaa"><img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/50/000000/external-codeforces-programming-competitions-and-contests-programming-community-logo-shadow-tal-revivo.png" alt="Code Forces" width=6%/></a>
+  <a href="https://codeforces.com/profile/MobinTGR8"><img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/50/000000/external-codeforces-programming-competitions-and-contests-programming-community-logo-shadow-tal-revivo.png" alt="Code Forces" width=6%/></a>
 	  &emsp; 
-	<a href="https://leetcode.com/7oSkaa/"><img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/50/000000/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-shadow-tal-revivo.png" alt="LeetCode" width=%6/></a>
+	<a href="https://leetcode.com/MobinTGR8/"><img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/50/000000/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-shadow-tal-revivo.png" alt="LeetCode" width=%6/></a>
 	  &emsp; 
-	<a href="https://atcoder.jp/users/ahmed_7oSkaa"><img src="https://i.ibb.co/Q9WSjDB/logo.png" alt="AtCoder" width=6%/></a>
+	<a href="https://atcoder.jp/users/MobinTGR8"><img src="https://i.ibb.co/Q9WSjDB/logo.png" alt="AtCoder" width=6%/></a>
 	  &emsp; 
-	<a href="https://www.codechef.com/users/ahmed_7oskaa"><img src="https://img.icons8.com/color/50/000000/codechef.png" alt="Code Chef" width=6%/></a>
+	<a href="https://www.codechef.com/users/mobintgr8"><img src="https://img.icons8.com/color/50/000000/codechef.png" alt="Code Chef" width=6%/></a>
 	  &emsp; 
-	<a href="https://icpc.global/ICPCID/IW0X0CTD0ZV9"><img src="https://i.ibb.co/6J0r7rW/Daco-5610880.png" alt="ICPC Global" width=6% /></a>     
+	<a href="https://icpc.global/ICPCID/QV8TYN25AXOO"><img src="https://i.ibb.co/6J0r7rW/Daco-5610880.png" alt="ICPC Global" width=6% /></a>     
 	  &emsp; 
-	<a href="https://www.codingame.com/profile/e5e56c7585fda3b457056b85180a4d636850344" ><img src="https://i.ibb.co/1MRppTC/codingame-1.png" alt="Codingame" width=20%>
+	<a href="https://www.codingame.com/profile/b5c343c092d3284a9782026f1bc2f48e8945475" ><img src="https://i.ibb.co/1MRppTC/codingame-1.png" alt="Codingame" width=20%>
 
 </div>
 

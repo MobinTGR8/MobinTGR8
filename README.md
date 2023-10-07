@@ -30,6 +30,8 @@
 
 <!-- https://leetcard.jacoblin.cool/ --> 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/MobinTGR8?theme=nord&font=Arapey&ext=heatmap)
+[![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=MobinTGR8&theme=radical)]
+
 
 <div align="center" width=100%>
   <a href="https://codeforces.com/profile/MobinTGR8"><img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/50/000000/external-codeforces-programming-competitions-and-contests-programming-community-logo-shadow-tal-revivo.png" alt="Code Forces" width=6%/></a>

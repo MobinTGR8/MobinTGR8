@@ -1,9 +1,9 @@
 <h3 align="center">
   Welcome to Mobin Haque's profile! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h3>
+
 <h2 align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=25&pause=1000&color=D27800&center=true&vCenter=true&width=600&height=100&lines=Computer+Science+Student;C+Programming+Language;Java+Programming+Language;Always+learning+new+things" alt="Typing SVG" /></a></h2>
-
 </p>
 
 [![Facebook Badge](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/Mobin.TGR8.94) [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mobin-haque-mobintgr8/) [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/mobin_tgr8/?hl=en) [![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Mobin_TGR8) [![Mail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/1/) 
@@ -141,10 +141,10 @@
 <div>
   <p align="center">
 	<a href="https://github.com/7oSkaaa/LeetCode_DailyChallenge_2023">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=MobinTGR8&repo=LeetCode_DailyChallenge_2023&theme=tokyonight" alt="GitHub Stats" />
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=7oSkaaa&repo=LeetCode_DailyChallenge_2023&theme=tokyonight" alt="GitHub Stats" />
     	</a>
 	<a href="https://github.com/7oSkaaa/Ahmed-Hossam">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=MobinTGR8&repo=Ahmed-Hossam&theme=tokyonight" alt="GitHub Stats" />
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=7oSkaaa&repo=Ahmed-Hossam&theme=tokyonight" alt="GitHub Stats" />
     	</a>
     	<a href="https://github.com/7oSkaaa/Strees_Testing">
       		<img src="https://github-readme-stats.vercel.app/api/pin/?username=MobinTGR8&repo=Strees_Testing&theme=tokyonight" alt="GitHub Stats" />

@@ -151,10 +151,6 @@
     	</a>
     	<a href="https://github.com/7oSkaaa/CP-Templates">
       		<img src="https://github-readme-stats.vercel.app/api/pin/?username=7oSkaaa&repo=CP-Templates&theme=tokyonight" alt="GitHub Stats" />
-    	</a>
-    	<a href="https://github.com/7oSkaaa/Codeforces-Polygon-Template">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=7oSkaaa&repo=Codeforces-Polygon-Template&theme=tokyonight" alt="GitHub Stats" />
-    	</a>
 	<a href="https://github.com/7oSkaaa/Some-Linux-Commands">
       		<img src="https://github-readme-stats.vercel.app/api/pin/?username=7oSkaaa&repo=Some-Linux-Commands&theme=tokyonight" alt="GitHub Stats" />
     	</a>

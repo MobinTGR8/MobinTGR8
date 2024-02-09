@@ -18,7 +18,7 @@
 - 🧔‍♂️ I love technology and use it to solve every `Problem`.
 - 🧑‍💻 I am a biginner competitive programmer at `Codeforces`, `Beecrowd`, `Hackerrank`, `Codechef`, `Atcoder`, `Leetcode`, `Google Contests`.
 - 🖱️ i have leanred `C` and currently Learning `Java`, `C++`, `Python`.
-- 🧑‍🎓 I’m currently learning `Computer Science` and `Software Engineering`.
+- 🧑‍🎓 I’m currently studying `Computer Science` and `Software Engineering`.
 - 🤓 Always `learning new things`.
 - 🤔 I’m currently open for a new `job opportunity`, this is [MY RESUME](#).
 - 💥 You can visit [MY WEBSITE](#).
@@ -109,7 +109,7 @@
 <p align="center">
     <a href="https://github.com/anuraghazra/github-readme-stats">
 	    <img alt="MobinTGR8's Github Stats" src="https://github-readme-stats.vercel.app/api?username=MobinTGR8&show_icons=true&count_private=true&locale=en&theme=tokyonight&layout=compact" height="230px"/></a>
-	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MobinTGR8&langs_count=10&show_icons=true&locale=en&theme=tokyonight" alt="7oSkaaa" height="230px"/>
+	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MobinTGR8&langs_count=10&show_icons=true&locale=en&theme=tokyonight" alt="MobinTGR8" height="230px"/>
 <br/>
 
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
